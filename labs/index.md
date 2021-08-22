@@ -7,7 +7,6 @@ This page links to individual labs.
 
 >  Date   | Lab | File(s) | Due
 > ------- | --- | ------- | ----
-
 > Aug 26 | Wireshark | [Getting Started](files/Wireshark_Intro_v8.1.pdf) | Sept 02
 
 <!--
