@@ -38,6 +38,26 @@ Network Connectivity
   - Netcat cheat sheet [pocket reference guide](docs/netcat_cheat_sheet_v1.pdf)
 - If you need to scan the open network interface on a remote system, nothing is better than [Nmap](https://nmap.org/).
 - _netdiscover_ is a network address discovering tool, install by using `sudo apt-get install netdiscover`.
+- [Masscan](https://github.com/robertdavidgraham/masscan/) is the world's fastest internet port scanner.
+
+Web Testing (Web Proxies)
+------------------------------------
+- [Burp or Burp Suite](https://portswigger.net/burp) is the gold standard of commercial web application–testing tools.
+- OWASP Zed Attack Proxy [ZAP](https://www.zaproxy.org/).
+- [w3af](http://w3af.org/) is a Web Application Attack and Audit Framework.
+- [mitmproxy](https://mitmproxy.org/) is an interactive, SSL/TLS-capable intercepting proxy with a console interface for HTTP/1, HTTP/2, and WebSockets.
+- [Charles](https://www.charlesproxy.com/) is an HTTP proxy, an HTTP
+monitor, and a reverse proxy. It enables you to view HTTPS traffic.
+
+Vulnerability Exploitation
+------------------------------------
+- [Metasploit](https://github.com/rapid7/metasploit-framework) is pretty much the only game in town when you need a generic vulnerability exploitation framework, at least if you don’t want to pay for one.
+- [Ettercap](https://www.ettercap-project.org/) is a comprehensive suite for man in the middle attacks.
+- [Scapy](https://scapy.net/) is a network packet generation and manipulation library for Python.
+- [sqlmap](http://sqlmap.org/) allows for easy discovery and exploitation of SQL injection vulnerabilities.
+- [nessus](https://www.tenable.com/products/nessus/nessus-essentials) is a proprietary vulnerability scanner developed by Tenable Network Security.
+- [Nikto](https://cirt.net/Nikto2) is an Open Source web server scanner.
+- [OpenVAS](http://www.openvas.org/) is an Open Vulnerability Assessment Scanner.
 
 Network Spoofing
 ------------------------------------
@@ -64,6 +84,16 @@ Bounty Platform
 -----------------------------------
 - [HackerOne](https://www.hackerone.com/) is a vulnerability coordination and bug bounty platform that connects businesses with cybersecurity researchers.
 - [Bugcrowd](https://www.bugcrowd.com/) is a crowdsourced security platform; managing organizations bug bounty, vulnerability disclosure, and next-gen pen test programs.
+
+Penetration Testing Platforms
+-----------------------------------
+- [Hack The Box](https://www.hackthebox.eu/) is an online platform to test and advance your skills in penetration testing and cyber security.
+- [Vulnhub](https://www.vulnhub.com/) provides materials that allows anyone to gain practical 'hands-on' experience in digital security.
+- [Hack This Site](https://www.hackthissite.org/) is a legal free training ground for users to test and expand their hacking skills.
+- The [wargames](https://overthewire.org/wargames/) offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
+- [We Chall](http://www.wechall.net) offers computer-related problems and links to other challenges.
+- [Google Gruyere](https://google-gruyere.appspot.com/) - Web Application Exploits and Defenses
+- [247CTF](https://247ctf.com/) The game never stops
 
 Repositories
 -----------------------------------
