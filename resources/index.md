@@ -39,6 +39,9 @@ Network Connectivity
 - If you need to scan the open network interface on a remote system, nothing is better than [Nmap](https://nmap.org/).
 - _netdiscover_ is a network address discovering tool, install by using `sudo apt-get install netdiscover`.
 - [Masscan](https://github.com/robertdavidgraham/masscan/) is the world's fastest internet port scanner.
+- [curl](https://curl.se/) is a command line tool and library for transferring data with URLs (since 1998).
+- [wget](https://www.gnu.org/software/wget/) is a free software package for retrieving files using HTTP, HTTPS, FTP and FTPS.
+- [HTTPie—aitch-tee-tee-pie](https://httpie.io/) is a user-friendly command-line HTTP client for the API era.
 
 Web Testing (Web Proxies)
 ------------------------------------
