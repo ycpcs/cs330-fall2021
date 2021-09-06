@@ -16,7 +16,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 2  | Aug 31 | [Chapter 1](slides/chapter_1.pdf) - Intro to Computer Networks and the Internet | CN: 1.4 - 1.8 |
 > 2  | Sept 02 | Application Layer: [Overview](slides/chapter_2.pdf) | CN: 2.1 | Chapter 1 [Homework](../assign/homework1.html)
 > | | | |
-> 3  | Sept 07 | Application Layer: [HTTP](slides/chapter_2.pdf) | CN: 2.1 - 2.2 | Wireshark Lab - HTTP
+> 3  | Sept 07 | Application Layer: [HTTP](slides/chapter_2.pdf) | CN: 2.1 - 2.2 | Wireshark Lab - [HTTP](../labs/files/Wireshark_HTTP_v8.1.pdf)
 > 3  | Sept 09 | Application Layer: [SMTP & DNS](slides/chapter_2.pdf) | CN: 2.3 - 2.4 | Wireshark Lab - DNS
 > | | | |
 > 4  | Sept 14 | Application Layer: [P2P, CDN](slides/chapter_2.pdf) | CN: 2.5 - 2.6 |

@@ -8,9 +8,9 @@ This page links to individual labs.
 >  Date   | Lab | File(s) | Due
 > ------- | --- | ------- | ----
 > Aug 26 | Wireshark | [Getting Started](files/Wireshark_Intro_v8.1.pdf) | Sept 02
+> Sept 07 | Wireshark | [HTTP](files/Wireshark_HTTP_v8.1.pdf) | Sept 19
 
 <!--
-> Sept 08 | Wireshark | [HTTP](files/Wireshark_HTTP_v7.0.pdf) | Sept 17
 > Sept 10 | Wireshark | [DNS](files/Wireshark_DNS_v7.0.pdf) | Sept 22
 > Sept 22 | Wireshark | [UDP](files/Wireshark_UDP_v7.0.pdf) <sup>*</sup> | Oct 01
 > Sept 24 | Lab | [Reliable Data Transfer](rdt.html) - [Solutions](rdt_solutions.html) | Oct 08

@@ -55,7 +55,8 @@ All information about the course will be posted here.
 * **Sept 22** - Wireshark Lab 3: [DNS](labs/files/Wireshark_DNS_v7.0.pdf) Due
 * **Sept 17** - Wireshark Lab 2: [HTTP](labs/files/Wireshark_HTTP_v7.0.pdf) Due
 -->
+* **Sept 19** - Wireshark Lab: [HTTP](labs/files/Wireshark_HTTP_v8.1.pdf) Due
 * **Sept 16** - Chapter 1 [Homework](assign/homework1.html) Due
-* **Sept 02** - Wireshark Lab 1: [Getting Started](labs/files/Wireshark_Intro_v8.1.pdf) Due
+* **Sept 02** - Wireshark Lab: [Getting Started](labs/files/Wireshark_Intro_v8.1.pdf) Due
 * **Aug 31** - Review Ethics Guide: [Ethics Guide](assign/assignment01.html) Due
 * **Aug 24** - Welcome back!
