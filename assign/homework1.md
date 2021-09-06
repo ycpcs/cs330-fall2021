@@ -12,7 +12,9 @@ Consider a single router transmitting packets, each of length _L_ bits, over a s
   - What is the maximum number of packets per second that can be transmitted by this link?
 
 ### Problem 2 (25 pts)
-Consider a network with three links, each with the specified transmission rate and link length. Link 1 transmission rate is _100 Mbps_ with length of _3 Km_. Link 2 transmission rate is _10 Mbps_ and length _5000 Km_, Link 3 transmission rate is _100 Mbps_ and length is _1 Km_. The packet we are trying to send has a length of _4000 bits_. The speed of light is _3*10<sup>8</sup> m/sec_. Calculate the transmission and propagation delays for Link 1, 2 and 3. What is the end to end delay for the packet?. Round your answers to two decimals after leading zeros.
+Consider a network with three links, each with the specified transmission rate and link length. Link 1 transmission rate is _100 Mbps_ with length of _3 Km_. Link 2 transmission rate is _10 Mbps_ and length _5000 Km_, Link 3 transmission rate is _100 Mbps_ and length is _1 Km_. The packet we are trying to send has a length of _4000 bits_. The speed of light is _3*10<sup>8</sup> m/sec_. Round your answers to two decimals after leading zeros.
+  - Calculate the transmission and propagation delays for Link 1, 2 and 3.
+  - What is the end to end delay for the packet?
 
 ### Problem 3 (10 pts)
 Consider sending a packet from a source host to a destination host over a fixed route.
@@ -34,7 +36,7 @@ A packet-switching scenario with _N<sub>ps</sub>_ users sharing a _100 Mbps_ lin
   - When packet switching is used, what is the probability that more than 4 users are transmitting?
 
 ### Problem 5 (5 pts)
-What layer in the TCP/IP stack best corresponds to saying: 'handles messages from a variety of network applications'
+What layer in the TCP/IP stack best corresponds to saying: 'handles messages from a variety of network applications'?
 
 ### Submit
 
