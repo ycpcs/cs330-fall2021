@@ -112,6 +112,7 @@ References
 - [Assigned Internet Protocol Numbers](https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml)
 - [IEEE 802.3](http://www.ieee802.org/3/) - ETHERNET WORKING GROUP
 - [Internet Corporation for Assigned Names and Numbers](http://www.icann.org/)
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#structs)
 
 Technical Documentation
 -----------------------------------
