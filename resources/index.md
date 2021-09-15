@@ -155,6 +155,12 @@ Technical Documentation
   - [RFC 8310](https://tools.ietf.org/html/rfc8310), Usage Profiles for DNS over TLS and DNS over DTLS
   - [RFC 8484](https://tools.ietf.org/html/rfc8484), DNS Queries over HTTPS (DoH)
 
+##### FTP
+  - [RFC 959](https://datatracker.ietf.org/doc/html/rfc959), FILE TRANSFER PROTOCOL (FTP)
+
+##### P2P
+  - [RFC 5694](https://datatracker.ietf.org/doc/html/rfc5694), Peer-to-Peer (P2P) Architecture
+
 ##### TCP
   - [RFC 793](https://tools.ietf.org/html/rfc793), TCP v4
   - [STD 7](https://tools.ietf.org/html/std7), Transmission Control Protocol, Protocol specification
