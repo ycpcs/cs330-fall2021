@@ -57,6 +57,16 @@ Suppose you can access the caches in the local DNS servers of your department. C
   - What transport protocol(s) does DNS use: TCP, UDP, or Both?
   - What well-known port does DNS use?
 
+### Problem 7 (20)
+I used ftp to download a file. Use the following [ftp.pcapn](../schedule/files/ftp.pcapng) to answer the following:
+  - What is my IP address?
+  - What is the IP address of the FTP server?
+  - What credentials I used? Is FTP secured?
+  - FTP uses two TCP connections for communication. Two connections, hence two ports. The first port is the _command_ which utilizes the communication between the FTP server and the FTP client. The second one is the _data_ port where the file transfer runs. List the 2 ports, which one is the  _command_  and which one is the _data_? Provide an example of each.
+  - Name the file I downloaded?
+  - List the directory I found the file in?
+
+
 ### Submit
 
 Post your solutions in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.
