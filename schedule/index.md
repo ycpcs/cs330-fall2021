@@ -17,10 +17,10 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 2  | Sept 02 | Application Layer: [Overview](slides/chapter_2.pdf) | CN: 2.1 | Chapter 1 [Homework](../assign/homework1.html)
 > | | | |
 > 3  | Sept 07 | Application Layer: [HTTP](slides/chapter_2.pdf) | CN: 2.1 - 2.2 | Wireshark Lab - [HTTP](../labs/files/Wireshark_HTTP_v8.1.pdf)
-> 3  | Sept 09 | Application Layer: [SMTP & DNS](slides/chapter_2.pdf) | CN: 2.3 - 2.4 | Wireshark Lab - DNS
+> 3  | Sept 09 | Application Layer: [SMTP & DNS](slides/chapter_2.pdf) | CN: 2.3 - 2.4 | Wireshark Lab - [DNS](../labs/files/Wireshark_DNS_v8.1.pdf)
 > | | | |
 > 4  | Sept 14 | Application Layer: [P2P, CDN](slides/chapter_2.pdf) | CN: 2.5 - 2.6 |
-> 4  | Sept 16 | Application Layer: [Socket Programming](slides/chapter_2.pdf) | CN: 2.7 | Chapter 2 Homework
+> 4  | Sept 16 | Application Layer: [Socket Programming](slides/chapter_2.pdf) | CN: 2.7 | Chapter 2 [Homework](../assign/homework2.html)
 > | | | |
 > 5  | Sept 21 | Transport Layer: [Design Issues, UDP](slides/chapter_3.pdf) | CN: 3.1 - 3.3 | Wireshark Lab - UDP <sup>*</sup>
 > 5  | Sept 23 | Transport Layer: [Reliable Data Transfer](slides/chapter_3.pdf) | CN: 3.4 | Homework - Reliable Data Transfer
