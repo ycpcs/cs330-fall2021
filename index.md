@@ -51,11 +51,11 @@ All information about the course will be posted here.
 * **Oct 08** - Reliable Data Transfer Lab: [RDT](labs/rdt.html) Due  
 * **Oct 06** - Exam 1 [Study Guide](exams/exam1_study_guide.html)
 * **Oct 04** - Chapter 2 [Homework](assign/homework2.html) Due
-* **Oct 01** - _Optional_ Wireshark Lab: [UDP](labs/files/Wireshark_UDP_v7.0.pdf) Due
 * **Sept 22** - Wireshark Lab 3: [DNS](labs/files/Wireshark_DNS_v7.0.pdf) Due
 * **Sept 17** - Wireshark Lab 2: [HTTP](labs/files/Wireshark_HTTP_v7.0.pdf) Due
 -->
 
+* **Sept 30** - Wireshark Lab: [UDP](labs/files/Wireshark_UDP_v8.1.pdf) Due (_Optional_)
 * **Sept 28** - Chapter 2 [Homework](assign/homework2.html) Due
 * **Sept 23** - Wireshark Lab: [DNS](labs/files/Wireshark_DNS_v8.1.pdf) Due
 * **Sept 19** - Wireshark Lab: [HTTP](labs/files/Wireshark_HTTP_v8.1.pdf) Due

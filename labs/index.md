@@ -10,9 +10,9 @@ This page links to individual labs.
 > Aug 26 | Wireshark | [Getting Started](files/Wireshark_Intro_v8.1.pdf) | Sept 02
 > Sept 07 | Wireshark | [HTTP](files/Wireshark_HTTP_v8.1.pdf) | Sept 19
 > Sept 13 | Wireshark | [DNS](files/Wireshark_DNS_v8.1.pdf) | Sept 23
+> Sept 21 | Wireshark | [UDP](files/Wireshark_UDP_v8.1.pdf) <sup>*</sup> | Sept 30
 
 <!--
-> Sept 22 | Wireshark | [UDP](files/Wireshark_UDP_v7.0.pdf) <sup>*</sup> | Oct 01
 > Sept 24 | Lab | [Reliable Data Transfer](rdt.html) - [Solutions](rdt_solutions.html) | Oct 08
 > Sept 29 | Wireshark | [TCP](files/Wireshark_TCP_v7.0.pdf) - [local capture](files\tcp.pcapng) | Oct 10
 > Oct 01 | Programming Lab | [Introduction to Sockets](sockets_into.html) | Oct 13
