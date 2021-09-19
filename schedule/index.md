@@ -22,7 +22,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 4  | Sept 14 | Application Layer: [P2P, CDN](slides/chapter_2.pdf) | CN: 2.5 - 2.6 | [ftp](files/ftp.pcapng), client server vs P2P [xlsx](files/cs_vs_p2p.xlsx)
 > 4  | Sept 16 | Application Layer: [Socket Programming](slides/chapter_2.pdf) | CN: 2.7 | Chapter 2 [Homework](../assign/homework2.html)
 > | | | |
-> 5  | Sept 21 | Transport Layer: [Design Issues, UDP](slides/chapter_3.pdf) | CN: 3.1 - 3.3 | Wireshark Lab - [UDP <sup>*</sup>](../labs/files/Wireshark_UDP_v8.1.pdf)
+> 5  | Sept 21 | Transport Layer: [Design Issues, UDP](slides/chapter_3.pdf) | CN: 3.1 - 3.3 | Wireshark Lab - [UDP](../labs/files/Wireshark_UDP_v8.1.pdf)<sup>*</sup>
 > 5  | Sept 23 | Transport Layer: [Reliable Data Transfer](slides/chapter_3.pdf) | CN: 3.4 | Homework - Reliable Data Transfer
 > | | |
 > 6  | Sept 28 | Transport Layer: [TCP](slides/chapter_3.pdf) | CN: 3.5 | Wireshark Lab - TCP
