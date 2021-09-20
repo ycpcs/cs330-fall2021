@@ -118,6 +118,7 @@ References
 Technical Documentation
 -----------------------------------
 ##### HTTP
+  - [RFC 2617](https://tools.ietf.org/html/rfc2617), HTTP Authentication: Basic and Digest Access Authentication
   - [RFC 7230](https://tools.ietf.org/html/rfc7230), HTTP/1.1: Message Syntax and Routing
   - [RFC 7231](https://tools.ietf.org/html/rfc7231), HTTP/1.1: Semantics and Content
   - [RFC 7232](https://tools.ietf.org/html/rfc7232), HTTP/1.1: Conditional Requests
