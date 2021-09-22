@@ -7,10 +7,10 @@ title: "Programming Lab - Introduction to Sockets"
 # Programming Lab - Introduction to Socket   
 
 ### Download and compile _individually_ the following files:
-  - [tcp_client.c](files/tcp_client.java)
-  - [udp_client.c](files/udp_client.java)
-  - [tcp_server.c](files/tcp_server.java)
-  - [udp_server.c](files/udp_server.java)
+  - [tcp_client.c](files/tcp_client.c)
+  - [udp_client.c](files/udp_client.c)
+  - [tcp_server.c](files/tcp_server.c)
+  - [udp_server.c](files/udp_server.c)
 
 ### We use the following simple client/server applications do demonstrate UDP and TCP socket programming.
   - A client reads a line from its standard input and sends the line out its socket to the server.
