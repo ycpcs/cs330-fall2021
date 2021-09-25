@@ -22,14 +22,14 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 4  | Sept 14 | Application Layer: [P2P, CDN](slides/chapter_2.pdf) | CN: 2.5 - 2.6 | [ftp](files/ftp.pcapng), client server vs P2P [xlsx](files/cs_vs_p2p.xlsx)
 > 4  | Sept 16 | Application Layer: [Socket Programming](slides/chapter_2.pdf) | CN: 2.7 | Chapter 2 [Homework](../assign/homework2.html)
 > | | | |
-> 5  | Sept 21 | Transport Layer: [Design Issues, UDP](slides/chapter_3.pdf) | CN: 3.1 - 3.3 | Wireshark Lab - [UDP](../labs/files/Wireshark_UDP_v8.1.pdf)<sup>*</sup>
-> 5  | Sept 23 | Transport Layer: [Reliable Data Transfer](slides/chapter_3.pdf) | CN: 3.4 | Homework - Reliable Data Transfer
+> 5  | Sept 21 | Transport Layer: [Design Issues](slides/chapter_3.pdf) | CN: 3.1 - 3.3 |
+> 5  | Sept 23 | Transport Layer: [UDP](slides/chapter_3.pdf) | CN: 3.2 - 3.3 | Wireshark Lab - [UDP](../labs/files/Wireshark_UDP_v8.1.pdf)<sup>*</sup>
 > | | |
-> 6  | Sept 28 | Transport Layer: [TCP](slides/chapter_3.pdf) | CN: 3.5 | Wireshark Lab - TCP
-> 6  | Sept 30 | Transport Layer: [Congestion Control](slides/chapter_3.pdf) | CN: 3.6 - 3.7 |  Homework - Introduction to Sockets
+> 6  | Sept 28 | Transport Layer: [Reliable Data Transfer](slides/chapter_3.pdf) | CN: 3.4 | Homework - [Reliable Data Transfer](../labs/rdt.html)
+> 6  | Sept 30 | Transport Layer: [TCP](slides/chapter_3.pdf) | CN: 3.5 | Wireshark Lab - TCP
 > | | | |
-> 7  | Oct 05 | **Exam 1** | CN: 1.1 - 3.8 | [Study Guide](../exams/exam1_study_guide.html)
-> 7  | Oct 07 | Exam 1 Review | CN: 1.1 - 3.8 |
+> 7  | Oct 05 | Transport Layer: [Congestion Control](slides/chapter_3.pdf) | CN: 3.6 - 3.7 |  
+> 7  | Oct 07 | **Exam 1** | CN: 1.1 - 3.8 | [Study Guide](../exams/exam1_study_guide.html)
 > | | | |
 > 8  | Oct 12 | Fall Break |
 > 8  | Oct 14 | Network Layer: [Overview, Router Architectures](slides/chapter_4.pdf) | CN: 4.1 - 4.2 |

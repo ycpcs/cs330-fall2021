@@ -12,6 +12,7 @@ This page links to individual labs.
 > Sept 13 | Wireshark | [DNS](files/Wireshark_DNS_v8.1.pdf) | Sept 23
 > Sept 21 | Wireshark | [UDP](files/Wireshark_UDP_v8.1.pdf) <sup>*</sup> | Sept 30
 > Sept 25 | Programming Lab | [Introduction to Sockets](sockets_into.html) | Oct 3
+> Sept 28 | Lab | [Reliable Data Transfer](rdt.html) | Oct 07
 
 <!--
 > Sept 24 | Lab | [Reliable Data Transfer](rdt.html) - [Solutions](rdt_solutions.html) | Oct 08
