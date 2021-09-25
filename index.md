@@ -55,7 +55,7 @@ All information about the course will be posted here.
 * **Sept 17** - Wireshark Lab 2: [HTTP](labs/files/Wireshark_HTTP_v7.0.pdf) Due
 -->
 
-* **Oct 3** - Introduction to Sockets Lab: [sockets_intro](labs/sockets_into.html) Due
+* **Oct 3** - Introduction to Sockets Lab: [sockets_intro](labs/sockets_intro.html) Due
 * **Sept 30** - Wireshark Lab: [UDP](labs/files/Wireshark_UDP_v8.1.pdf) Due (_Optional_)
 * **Sept 28** - Chapter 2 [Homework](assign/homework2.html) Due
 * **Sept 23** - Wireshark Lab: [DNS](labs/files/Wireshark_DNS_v8.1.pdf) Due
