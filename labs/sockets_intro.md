@@ -4,7 +4,7 @@ course_number: CS330
 title: "Programming Lab - Introduction to Sockets"
 ---
 
-# Programming Lab - Introduction to Socket   
+# Programming Lab - Introduction to Sockets 
 
 ### Download and compile _individually_ the following files:
   - [tcp_client.c](files/tcp_client.c)
