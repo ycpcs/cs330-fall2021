@@ -31,16 +31,16 @@ title: "Programming Lab - Introduction to Sockets"
   - Run udp_server and udp_client – send a message. Run udp_client again (while udp_server is still running), but this time with a shorter message.
     - What happens?
     - Why?
-    - Extra Credit: Can if you fix it?    
-  - Update tcp_client, udp_client, tcp_server and udp_server to accept the **client and server** port numbers as a _user_ input.
-  - Change the _receiveData_ in udp_client to allocate 1 byte instead of 1024. Run the udp_client and the udp_server – send a message with length more than 1.
+    - Fix it.
+  - Update tcp_client, udp_client, tcp_server and udp_server to accept the **client and server** port numbers as an _user_ input.
+  - Update tcp_client and udp_client to accept the **server** IP Address as an _user_ input.
+  - Change the _send_msg_ in udp_client to allocate 5 bytes instead of 50. Run the udp_client and the udp_server – send a message with length more than 1.
     - What happens?
     - Why?
-  - Change the allocation size of _sendData_ in udp_client to 1 and rerun the client.
+  - Change the allocation size of _recv_msg_ in udp_client to 5 and rerun the client.
     - What do you expect will happen?
     - What happens?  
     - Why?
-    - Is this a bug?
  - _Extra Credit_ Experiment with the code, surprise me.
     - Do not be afraid to explore and brake it. Learn form it.  
 
