@@ -4,7 +4,7 @@ course_number: CS330
 title: "Programming Lab - Introduction to Sockets"
 ---
 
-# Programming Lab - Introduction to Sockets 
+# Programming Lab - Introduction to Sockets
 
 ### Download and compile _individually_ the following files:
   - [tcp_client.c](files/tcp_client.c)
@@ -34,7 +34,7 @@ title: "Programming Lab - Introduction to Sockets"
     - Fix it.
   - Update tcp_client, udp_client, tcp_server and udp_server to accept the **client and server** port numbers as an _user_ input.
   - Update tcp_client and udp_client to accept the **server** IP Address as an _user_ input.
-  - Change the _send_msg_ in udp_client to allocate 5 bytes instead of 50. Run the udp_client and the udp_server – send a message with length more than 1.
+  - Change the _send_msg_ in udp_client to allocate 5 bytes instead of 50. Run the udp_client and the udp_server – send a message with length more than 5.
     - What happens?
     - Why?
   - Change the allocation size of _recv_msg_ in udp_client to 5 and rerun the client.
