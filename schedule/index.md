@@ -26,7 +26,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 5  | Sept 23 | Transport Layer: [UDP](slides/chapter_3.pdf) | CN: 3.2 - 3.3 | Wireshark Lab - [UDP](../labs/files/Wireshark_UDP_v8.1.pdf)<sup>*</sup>
 > | | |
 > 6  | Sept 28 | Transport Layer: [Reliable Data Transfer](slides/chapter_3.pdf) | CN: 3.4 | Homework - [Reliable Data Transfer](../labs/rdt.html)
-> 6  | Sept 30 | Transport Layer: [TCP](slides/chapter_3.pdf) | CN: 3.5 | Wireshark Lab - TCP
+> 6  | Sept 30 | Transport Layer: [TCP](slides/chapter_3.pdf) | CN: 3.5 | Wireshark Lab - [TCP](../labs/files/Wireshark_TCP_v8.1.pdf)
 > | | | |
 > 7  | Oct 05 | Transport Layer: [Congestion Control](slides/chapter_3.pdf) | CN: 3.6 - 3.7 |  
 > 7  | Oct 07 | **Exam 1** | CN: 1.1 - 3.8 | [Study Guide](../exams/exam1_study_guide.html)

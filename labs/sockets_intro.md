@@ -12,6 +12,9 @@ title: "Programming Lab - Introduction to Sockets"
   - [tcp_server.c](files/tcp_server.c)
   - [udp_server.c](files/udp_server.c)
 
+- Compile with: ```gcc tcp_client.c -o tcp_client```
+- Run with: ```./tcp_client```
+
 ### We use the following simple client/server applications do demonstrate UDP and TCP socket programming.
   - A client reads a line from its standard input and sends the line out its socket to the server.
   - The server reads a line from its socket.
