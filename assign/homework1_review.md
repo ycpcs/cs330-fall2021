@@ -95,7 +95,7 @@ p = 0.3
 What layer in the TCP/IP stack best corresponds to saying: 'handles messages from a variety of network applications'?
 <code>
 Application layer
-</code
+</code>
 
 ### Submit
 
