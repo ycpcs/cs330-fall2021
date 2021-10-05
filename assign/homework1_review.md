@@ -10,7 +10,7 @@ title: "Homework: Chapter 1 Answers"
 Consider a single router transmitting packets, each of length _L_ bits, over a single link with transmission rate _R_ Mbps to another router at the other end of the link. Suppose that the packet length is _L = 16000 bits_, and that the link transmission rate along the link to router on the right is _R = 1000 Mbps_. Round your answer to two decimals after leading zeros.
   - Compute the _one-hop_ transmission delay:
 <code>
-  L/R = 16,000/1,000,000,000 = 0.00016 sec
+  L/R = 16,000/1,000,000,000 = 0.00016 sec.
 </code>
 
   - What is the maximum number of packets per second that can be transmitted by this link?
@@ -28,7 +28,7 @@ Consider a network with three links, each with the specified transmission rate a
   3) 0.00004 sec.<br/>
   <br/>
   Propagation Delay: d/s<br/>
-  1) 3,000/3*10^8 = 0.0001 seconds <br/>
+  1) 3,000/3*10^8 = 0.0001 sec. <br/>
   2) 0.017 sec.<br/>
   3) 0.0000033 sec.<br/>
 </code>
