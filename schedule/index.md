@@ -32,12 +32,12 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 7  | Oct 07 | **Exam 1** | CN: 1.1 - 3.8 | [Study Guide](../exams/exam1_study_guide.html)
 > | | | |
 > 8  | Oct 12 | Fall Break |
-> 8  | Oct 14 | Network Layer: [Overview, Router Architectures](slides/chapter_4.pdf) | CN: 4.1 - 4.2 |
+> 8  | Oct 14 | Exam 1 Review & [Tree Letter Match](../labs/tlm.html) hints
 > | | | |
-> 9  | Oct 19 | Network Layer: [IPv4, DHCP](slides/chapter_4.pdf), fragmented capture [example](files\mtu.pcapng) | CN: 4.3 | Chapter 4 Homework
-> 9  | Oct 21 | Network Layer: [IPv6, NAT](slides/chapter_4.pdf), [teredo](files\teredo.pcap), [6to4](files\6to4.pcap) | CN: 4.3 - 4.5 | Wireshark Lab - NAT
+> 9  | Oct 19 | Network Layer: [Overview, Router Architectures](slides/chapter_4.pdf) | CN: 4.1 - 4.2 |
+> 9  | Oct 21 | Network Layer: [IPv4, DHCP](slides/chapter_4.pdf), fragmented capture [example](files\mtu.pcapng) | CN: 4.3 | Chapter 4 Homework
 > | | | |
-> 10  | Oct 26 | Client & Server Lab | |  
+> 10  | Oct 26 | Network Layer: [IPv6, NAT](slides/chapter_4.pdf), [teredo](files\teredo.pcap), [6to4](files\6to4.pcap) | CN: 4.3 - 4.5 | Wireshark Lab - NAT
 > 10 | Oct 28 | Network Layer: [Routing Algorithms](slides/chapter_5.pdf) & [Dijkstra's Algorithm](slides/dijkstra_algorithm.pdf) | CN: 5.1 - 5.2 |
 > | | | |
 > 11 | Nov 02 | Network Layer: [Internet Routing](slides/chapter_5.pdf) | CN: 5.3 - 5.4 |
