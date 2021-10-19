@@ -14,7 +14,7 @@ This page links to individual labs.
 > Sept 25 | Programming Lab | [Introduction to Sockets](sockets_intro.html) | 100 | Oct 05
 > Sept 28 | Lab | [Reliable Data Transfer](rdt.html) | 75 | Oct 07
 > Sept 28 | Programming Lab | Three Letter Match [tlm](tlm.md) | 200 | Oct 14
-> Sept 30 | Wireshark | [TCP](files/Wireshark_TCP_v8.1.pdf) and the [capture](files/tcp.pcapng) | Oct 16
+> Sept 30 | Wireshark | [TCP](files/Wireshark_TCP_v8.1.pdf) and the [capture](files/tcp.pcapng) | 100 | Oct 16
 
 <!--
 > Sept 24 | Lab | [Reliable Data Transfer](rdt.html) - [Solutions](rdt_solutions.html) | Oct 08
