@@ -55,6 +55,7 @@ All information about the course will be posted here.
 * **Sept 17** - Wireshark Lab 2: [HTTP](labs/files/Wireshark_HTTP_v7.0.pdf) Due
 -->
 
+* **Nov 02** - Wireshark Lab: [DHCP](labs/files/Wireshark_DHCP_v8.1.pdf) Due
 * **Oct 16** - Wireshark Lab 5: [TCP](labs/files/Wireshark_TCP_v8.1.pdf) and the [capture](labs/files/tcp.pcapng)
 * **Oct 14** - Three Letter Match Lab: [tlm](labs/tlm.html) Due
 * **Oct 07** - Reliable Data Transfer Lab: [RDT](labs/rdt.html) Due  
