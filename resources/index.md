@@ -137,10 +137,10 @@ Technical Documentation
   - [RFC 5321](https://tools.ietf.org/html/rfc5321), Simple Mail Transfer Protocol
   - [RFC 6531](https://tools.ietf.org/html/rfc6531), SMTP: Extension for Internationalized Email Addresses
 
-#### IMAP
+##### IMAP
   - [RFC 3501](https://tools.ietf.org/html/rfc3501), IMAP version 4 revision 1
 
-#### POP3
+##### POP3
   - [RFC 1939](https://tools.ietf.org/html/rfc1939), Post Office Protocol - Version 3
 
 ##### DNS
@@ -192,7 +192,9 @@ Technical Documentation
   - [RFC 2473](https://tools.ietf.org/html/rfc2473), Generic Packet Tunneling in IPv6 Specification
   - [RFC 2474](https://tools.ietf.org/html/rfc2474), Definition of the Differentiated Services Field (DS Field) in the IPv4 and IPv6 Headers
   - [RFC 2474](https://tools.ietf.org/html/rfc2475), An Architecture for Differentiated Services
+  - [RFC 3056](https://tools.ietf.org/html/rfc3056), Connection of IPv6 Domains via IPv4 Clouds (6to4)
   - [RFC 3439](https://tools.ietf.org/html/rfc3439), Some Internet Architectural Guidelines and Philosophy
+  - [RFC 4380](https://tools.ietf.org/html/rfc4380), Teredo: Tunneling IPv6 over UDP
 
 ##### ICMP
   - [RFC 792](https://tools.ietf.org/html/rfc792), INTERNET CONTROL MESSAGE PROTOCOL
