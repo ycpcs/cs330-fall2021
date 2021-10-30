@@ -26,6 +26,7 @@ Exam 2 - Nov 16, 2021
   - [CS360: Bellman-Ford Algorithm](https://ycpcs.github.io/cs360-spring2019/lectures/lecture21.html)
   - [CS360: Dijkstra's Algorithm](https://ycpcs.github.io/cs360-spring2019/lectures/lecture22.html)
 
+<!--
 #### Link Layer
 - Know what services the Data Link Layer provides.
 - Understand the characteristics of an ideal Multiple Access Protocol.
@@ -36,6 +37,7 @@ Exam 2 - Nov 16, 2021
 - Know key functions of switches.
 - Know differences between switched and bus-based Ethernet.
 - Know how to build ARP and switch tables.
+-->
 
 Exams
 -----------------

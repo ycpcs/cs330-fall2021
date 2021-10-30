@@ -37,17 +37,17 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 9  | Oct 19 | Network Layer: [Overview, Router Architectures](slides/chapter_4.pdf) | CN: 4.1 - 4.2 |
 > 9  | Oct 21 | Network Layer: [IPv4, DHCP](slides/chapter_4.pdf), fragmented capture [example](files\mtu.pcapng) | CN: 4.3 | Wireshark Lab - [DHCP](../labs/files/Wireshark_DHCP_v8.1.pdf)
 > | | | |
-> 10  | Oct 26 | Network Layer: [IPv6, NAT](slides/chapter_4.pdf), [teredo](files\teredo.pcap), [6to4](files\6to4.pcap) | CN: 4.3 - 4.5 | Wireshark Lab - NAT
+> 10  | Oct 26 | Network Layer: [IPv6, NAT](slides/chapter_4.pdf), [teredo](files\teredo.pcap), [6to4](files\6to4.pcap) | CN: 4.3 - 4.5 |
 > 10 | Oct 28 | Network Layer: [Routing Algorithms](slides/chapter_5.pdf) & [Dijkstra's Algorithm](slides/dijkstra_algorithm.pdf) | CN: 5.1 - 5.2 |
 > | | | |
 > 11 | Nov 02 | Network Layer: [Internet Routing](slides/chapter_5.pdf) | CN: 5.3 - 5.4 |
-> 11 | Nov 04 | Link Layer: [Link Layer Functions](slides/chapter_6.pdf) | CN 6.1 - 6.3 |
+> 11 | Nov 04 | **Exam 2** | CN: 4.1 - 5.4 | [Study Guide](../exams/exam2_study_guide.html)
 > | | | |
-> 12 | Nov 09 | Chat Lab | |
-> 12 | Nov 11 | Link Layer: [Switched LANs, Ethernet](slides/chapter_6.pdf) | CN: 6.4 - 6.8 |
+> 12 | Nov 09 | Exam 2 Review | |
+> 12 | Nov 11 | 
 > | | | |
-> 13 | Nov 16 | **Exam 2** | CN: 4.1 - 6.8 | [Study Guide](../exams/exam2_study_guide.html)
-> 13 | Nov 18 | Exam 2 Review | | Homework - Ping Pong
+> 13 | Nov 16 | Link Layer: [Link Layer Functions](slides/chapter_6.pdf) | CN 6.1 - 6.3 |
+> 13 | Nov 18 | Link Layer: [Switched LANs, Ethernet](slides/chapter_6.pdf) | CN: 6.4 - 6.8 |
 > | | | |
 > 14 | Nov 23 |  RESTful APIs Lab |
 > 14 | Nov 25 | **NO CLASS - Thanksgiving Break**
