@@ -222,3 +222,7 @@ Technical Documentation
   - [RFC 2858](https://tools.ietf.org/html/rfc2858), Multiprotocol Extensions for BGP-4
   - [RFC 2918](https://tools.ietf.org/html/rfc2918), Route Refresh Capability for BGP-4
   - [RFC 3107](https://tools.ietf.org/html/rfc3107), Carrying Label Information in BGP-4
+
+##### OSPF
+  - [RFC2328](https://tools.ietf.org/html/rfc2328), OSPF Version 2
+  - [RFC5340](https://tools.ietf.org/html/rfc5340), OSPF for IPv6
