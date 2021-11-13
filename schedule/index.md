@@ -44,10 +44,10 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 11 | Nov 04 | **Exam 2** | CN: 4.1 - 5.4 | [Study Guide](../exams/exam2_study_guide.html)
 > | | | |
 > 12 | Nov 09 | Exam 2 Review | |
-> 12 | Nov 11 | 
+> 12 | Nov 11 | Link Layer: [Link Layer Functions](slides/chapter_6.pdf) | CN 6.1 - 6.3 |
 > | | | |
-> 13 | Nov 16 | Link Layer: [Link Layer Functions](slides/chapter_6.pdf) | CN 6.1 - 6.3 |
-> 13 | Nov 18 | Link Layer: [Switched LANs, Ethernet](slides/chapter_6.pdf) | CN: 6.4 - 6.8 |
+> 13 | Nov 16 | Link Layer: [Switched LANs, Ethernet](slides/chapter_6.pdf) | CN: 6.4 - 6.8 |
+> 13 | Nov 18 |
 > | | | |
 > 14 | Nov 23 |  RESTful APIs Lab |
 > 14 | Nov 25 | **NO CLASS - Thanksgiving Break**
