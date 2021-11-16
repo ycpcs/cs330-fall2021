@@ -226,3 +226,11 @@ Technical Documentation
 ##### OSPF
   - [RFC2328](https://tools.ietf.org/html/rfc2328), OSPF Version 2
   - [RFC5340](https://tools.ietf.org/html/rfc5340), OSPF for IPv6
+
+##### ARP
+  - [RFC826](https://tools.ietf.org/html/rfc826), An Ethernet Address Resolution Protocol
+  - [RFC5494](https://tools.ietf.org/html/rfc5494), IANA Allocation Guidelines for the Address Resolution Protocol (ARP)
+
+##### Ethernet
+  - [RFC894](https://tools.ietf.org/html/rfc894), A Standard for the Transmission of IP Datagrams over Ethernet Networks
+  - [RFC1042](https://tools.ietf.org/html/rfc1042), A Standard for the Transmission of IP Datagrams over IEEE 802 Networks
