@@ -53,12 +53,10 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 14 | Nov 25 | **NO CLASS - Thanksgiving Break**
 > | | | |
 > 15 | Nov 30 | UDP: Multicast & Broadcast | |
-> 15 | Nov 30 | Security in Computer Networks: Cryptography, Encryption | CN: 8.1 - 8.3 |
+> 15 | Dec 02 | Security in Computer Networks: Cryptography, Encryption | CN: 8.1 - 8.3 |
 > | | | |
-> 16 | Nov 30 | Security in Computer Networks: Authentication, Digital Signatures | CN: 8.3 - 8.6 |
-> 16 | Nov 30 | Security in Computer Networks: Firewalls and IDS | CN: 8.7 - 8.9 | Wireshark Lab - SSL
-> | | | |
-> 17 | Dec 14 | **FINAL EXAM** | CN: 1.1 - 8.9 | 6:30 PM - 8:30 PM
+> 16 | Dec 07 | Security in Computer Networks: Authentication, Digital Signatures | CN: 8.3 - 8.6 |
+> 16 | Dec 09 | **FINAL EXAM** | CN: 1.1 - 8.9 | 6:30 PM - 8:30 PM
 
 <sup>*</sup> Optional Lab
 
