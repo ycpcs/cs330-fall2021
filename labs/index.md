@@ -16,6 +16,7 @@ This page links to individual labs.
 > Sept 28 | Programming Lab | Three Letter Match [tlm](tlm.md) | 200 | Oct 14
 > Sept 30 | Wireshark | [TCP](files/Wireshark_TCP_v8.1.pdf) and the [capture](files/tcp.pcapng) | 100 | Oct 16
 > Oct 21 | Wireshark | [DHCP](files/Wireshark_DHCP_v8.1.pdf) | 75 | Nov 02
+> Nov 24 | Programming Lab | [C Raw Sockets](c-raw-sockets.html) | 200 | Dec 11
 
 <!--
 > Sept 24 | Lab | [Reliable Data Transfer](rdt.html) - [Solutions](rdt_solutions.html) | Oct 08

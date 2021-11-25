@@ -49,7 +49,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 13 | Nov 16 | Link Layer: [Switched LANs, Ethernet](slides/chapter_6.pdf) | CN: 6.4 - 6.8 |
 > 13 | Nov 18 | ping using RAW sockets | [checksum.c](../labs/files/checksum.c)
 > | | | |
-> 14 | Nov 23 |  traceroute using RAW sockets |
+> 14 | Nov 23 |  traceroute using RAW sockets | [Raw C Sockets](../labs/c-raw-sockets.html)
 > 14 | Nov 25 | **NO CLASS - Thanksgiving Break**
 > | | | |
 > 15 | Nov 30 | UDP: Multicast & Broadcast | |
