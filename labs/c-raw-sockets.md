@@ -31,8 +31,8 @@ title: "Programming Assignment: Ping and Traceroute using C raw sockets"
 
 ### References
   - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
-  - [Linux socket interface](https://linux.die.net/man/2/socket). Don't forget to use SOCK_RAW type. 
-  - [Sends a message on a host](https://linux.die.net/man/3/sendto)
+  - [Linux socket interface](https://linux.die.net/man/2/socket). Don't forget to use SOCK_RAW type.
+  - [Sends a message to a host](https://linux.die.net/man/3/sendto)
   - [Receive a message from a socket](https://linux.die.net/man/3/recvfrom)
   - Get the IPv4 address corresponding to a given Internet host name: [gethostbyname](https://www.man7.org/linux/man-pages/man3/gethostbyname.3.html)
   - Convert a socket address to a corresponding host: [getnameinfo](https://www.man7.org/linux/man-pages/man3/getnameinfo.3.html)
